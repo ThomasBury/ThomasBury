@@ -1,3 +1,5 @@
+<img src="https://giphy.com/gifs/trippy-rainbow-3o7WTQlb1uQtCSBVGU" width="200" height="150" alt="Trippy rainbow GIF">
+
 # Welcome to my personal Github
 
 I'm obsessed with using the latest machine learning stuff to solve problems in insurance and finance (my background in physics and economics helps a ton!).  I've tackled cool projects in areas like pricing, image stuff, building private and open source Python packages, and even getting computers to understand language.
