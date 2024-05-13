@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/3o7WTQlb1uQtCSBVGU" width="150" height="200" alt="Trippy rainbow GIF">
+![](bender.gif width=200 height=350)
 
 # Welcome to my personal Github
 
