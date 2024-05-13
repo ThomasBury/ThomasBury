@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/3o7WTQlb1uQtCSBVGU" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-rainbow-3o7WTQlb1uQtCSBVGU">via GIPHY</a></p>
+<img src="https://giphy.com/embed/3o7WTQlb1uQtCSBVGU" width="150" height="200" alt="Trippy rainbow GIF">
 
 # Welcome to my personal Github
 
