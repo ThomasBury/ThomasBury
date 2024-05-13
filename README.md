@@ -1,4 +1,5 @@
-![](bender.gif width=200 height=350)
+<img src="./bender.gif" width="100" height="125">
+
 
 # Welcome to my personal Github
 
