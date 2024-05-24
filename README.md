@@ -12,7 +12,7 @@ But code isn't everything! I also lead projects, making sure tech and strategy w
  - my open-source packages: [arfs](https://arfs.readthedocs.io/en/latest/), [scicomap](https://scicomap.readthedocs.io/en/latest/) and [geomapviz](https://geomapviz.readthedocs.io/en/latest/)
  - older academic stuff [Google Scholar](https://scholar.google.be/citations?user=1fU1ZjIAAAAJ&hl=fr)
 
-## For stats nerds
+## Stats for nerds
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasBury&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBury&theme=radical&hide=jupyter%20notebook,html&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThomasBury&theme=radical&hide_border=true)](https://git.io/streak-stats)
